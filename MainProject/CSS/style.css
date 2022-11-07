@@ -1,0 +1,110 @@
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+body {
+    background-color: rgb(0, 0, 0);
+    margin: 10 auto 0 auto;
+    font-family: 'Inter', sans-serif;
+}
+.container {
+    height: 45px;
+    background-color: white;
+    margin-top: 15px;
+}
+.logo-img {
+    height: 35px;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.nav {
+    display: flex;
+    align-items: center;
+}
+.menu {
+    display: flex;
+    align-items: center;
+    margin-top: 8px;
+    padding-left: 150px;
+}
+.menu-item {
+    padding-right: 280px;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 700px;
+
+}
+.menu-link {
+    text-decoration: none;
+    color: black;
+    
+}
+.icon1 {
+    padding-left: 1130px;
+
+}
+.icon2{
+    padding-left: 1px;
+}
+.icon3{
+    padding-left: 1px;
+}
+.head-img1{
+    position: absolute;
+    width: 760px;
+    height: 525px;
+    left: 26px;
+    top: 130px;
+}
+.head-img2{
+    position: absolute;
+    width: 840px;
+    height: 525px;
+    left: 724px;
+    top: 130px;
+}
+.phototitle1{
+    color: white;
+    font-family: 'Medula One', cursive;
+    font-size: 96px;
+    position: absolute;
+    width: 403px;
+    height: 129px;
+    left: 250px;
+    top: 420px;
+}
+.phototitle2{
+    color: white;
+    font-family: 'Medula One', cursive;
+    font-size: 96px;
+    position: absolute;
+    width: 197px;
+    height: 129px;
+    left: 1100px;
+    top: 420px;
+    
+
+}
+.nav2{
+    display: flex;
+    align-items: center;
+    color: white;
+    text-transform: uppercase;
+    position: absolute;
+    width: 86px;
+    height: 44px;
+    left: 30px;
+    top: 680px;
+}
+.block2{
+    padding-left: 280px;
+}
+.block3{
+    padding-left: 280px;
+}
+.block4{
+    padding-left: 260px;
+}
+  
